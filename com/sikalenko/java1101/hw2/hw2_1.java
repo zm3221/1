@@ -2,7 +2,7 @@ package com.sikalenko.java1101.hw2;
 
 public class hw2_1 {
     public static void main(String[] args) {
-        String FIO = "Sikalenko Andrey Oleksndrovich";
+        String FIO = "Sikalenko Andrey daun Oleksndrovich";
         String IOF = "Andrey Oleksndrovich Sikalenko ";
         char f[] = {83, 105, 107, 97, 108, 101, 110, 107, 111,};
         char i[] = {65, 110, 100, 114, 101, 121};
