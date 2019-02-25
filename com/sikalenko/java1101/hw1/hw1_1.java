@@ -7,7 +7,7 @@ public class hw1_1 {
                 int c = q/w;
                 int d = q%w;
         System.out.println(q+"/"+w+"="+c);
-        System.out.println("ostatok="+d);
+        System.out.println("ostatok =" + d);
 
     }
           }
