@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.metanit.eugene.sqldbapp.UserActivity">
+
+    <item
+        android:id="@+id/DelBtn"
+        android:title="Delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="always"
+        android:visible="false">
+    </item>
+    <item
+        android:id="@+id/SaveBtn"
+        android:title="Save"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="always">
+    </item>
+
+
+</menu>
